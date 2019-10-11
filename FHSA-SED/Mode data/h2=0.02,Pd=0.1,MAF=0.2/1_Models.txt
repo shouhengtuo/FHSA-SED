@@ -1,0 +1,17 @@
+
+
+
+
+Attribute names:	P1	P2
+Minor allele frequencies:	0.20000000298023224	0.20000000298023224
+K: 0.09996848043361665
+Heritability: 0.01999906929469577
+Ease-of-detection metric: 0.012259211812702382
+Odds ratio: 2.912119415566681
+Table is NOT normalized.
+
+Table:
+
+0.0836,  0.0836,  0.0836
+0.0836,  0.2099,  0.2099
+0.0836,  0.2099,  0.2099
